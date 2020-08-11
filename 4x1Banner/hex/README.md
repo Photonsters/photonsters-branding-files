@@ -1,1 +1,1 @@
-# Hex versions of the 128x43 image in various byte formats
+# Hex versions of the 128x32 image in various byte formats
